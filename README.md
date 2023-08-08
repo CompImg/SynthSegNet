@@ -2,7 +2,7 @@
 This repository provides code for training a joint segmentation and synthesis network for MS lesion segmentation and synthetic DIR (**D**ouble **I**nversion **R**ecovery).
 Our framework is rather generic and can be adapted to different diseases, body parts and modalities.
 
-
+![Overview of our framework.](SISSI_Fig1.png)
 
 Data format
 -----------
